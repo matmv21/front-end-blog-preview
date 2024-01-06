@@ -30,7 +30,7 @@ Users should be able to:
 #### Desktop
 ![](./assets/images/screenshot.jpeg)
 #### Mobile
-![](./assets/images/screenshot.jpeg)
+![](./assets/images/screenshot-mobile.jpeg)
 
 ### Links
 
