@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Front-end blog preview](https://github.com/matmv21/front-end-blog-preview.git)
-- Live Site URL: [matmv21.github.io](https://matmv21.github.io/)
+- Live Site URL: [matmv21.github.io](https://matmv21.github.io/front-end-blog-preview)
 
 ## My process
 
