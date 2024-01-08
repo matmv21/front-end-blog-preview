@@ -8,13 +8,16 @@
     src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 body {
-    display: block;
-    font-family: 'figtree';
-    background-color: #F3D424;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
     align-items: center;
     justify-content: center;
+    font-family: 'figtree';
+    background-color: #F3D424;
     margin: auto;
     padding: 20px;
+    min-height: 100vh;
     overflow: hidden;
 }
 .main {
@@ -29,7 +32,7 @@ body {
     justify-content: center;
     margin: 50px auto;
     background-color: white;
-    width: 410px;
+    max-width: 410px;
     border-radius: 10px;
     border: 2px solid black;
     box-shadow: 10px 10px 0 black;
@@ -79,8 +82,7 @@ body {
     font-weight: 700;
 }
 .attribution {
-    display: grid;
-    margin-top: 20px;
+    text-align: center;
 }
 .attribution p {
     margin: auto;
